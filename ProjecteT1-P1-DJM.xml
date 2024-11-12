@@ -2,7 +2,7 @@
 <!DOCTYPE PHASMOPHOBIA SYSTEM "ProjecteT1-P1-DJM.dtd">
 
 <PHASMOPHOBIA>
-    <fantasma id="f1"  nom="Poltergeist" fecha_introduccio="2021-06-25" velocitat="normal" cordura_caçar="normal">
+    <fantasma id="f1"  nom="Poltergeist" fecha_introduccio="18/9/2020" velocitat="normal" cordura_caçar="normal">
         <proba1>Escritura</proba1>
         <proba2>Ultravioleta</proba2>
         <proba3>Temperatura</proba3>
@@ -10,7 +10,7 @@
         <foto_f>fotos_projecte/poltergeist.jpg</foto_f>
     </fantasma>
 
-    <fantasma id="f2" nom="Jinn" fecha_introduccio="2020-11-10" velocitat="alta" cordura_caçar="tard">
+    <fantasma id="f2" nom="Jinn" fecha_introduccio="18/9/2020" velocitat="alta" cordura_caçar="tard">
         <proba1>EMF5</proba1>
         <proba2>Temperatura</proba2>
         <proba3>Orbes</proba3>
@@ -19,7 +19,7 @@
         <foto_f>fotos_projecte/jinn.jpg</foto_f>
     </fantasma>
 
-    <fantasma id="f3" nom="Pesadilla" fecha_introduccio="2021-03-15" velocitat="lenta" cordura_caçar="molt_prompte">
+    <fantasma id="f3" nom="Pesadilla" fecha_introduccio="03/12/2020" velocitat="lenta" cordura_caçar="molt_prompte">
         <proba1>Orbes</proba1>
         <proba2>Escritura</proba2>
         <proba3>Temperatura</proba3>
@@ -27,7 +27,7 @@
         <foto_f>fotos_projecte/pesadilla.jpg</foto_f>
     </fantasma>
 
-    <fantasma id="f4" nom="Revenant" fecha_introduccio="2021-09-20" velocitat="lenta" cordura_caçar="prompte">
+    <fantasma id="f4" nom="Revenant" fecha_introduccio="18/9/2020" velocitat="lenta" cordura_caçar="prompte">
         <proba1>DOTS</proba1>
         <proba2>Escritura</proba2>
         <proba3>Orbes</proba3>
@@ -35,27 +35,27 @@
         <foto_f>fotos_projecte/revenant.jpg</foto_f>
     </fantasma>
 
-    <mapa id="m1" nom="Casa de Tanglewood" tamany="xicotet" fecha_introduccio="2020-10-18" obert="no">
+    <mapa id="m1" nom="Casa de Tanglewood" tamany="xicotet" fecha_introduccio="18/9/2020" obert="no">
         <descripcio_m>Una casa xicoteta i acollidora amb un toc de terror, ideal per a investigacions inicials.</descripcio_m>
         <fusible>Soterrani</fusible>
         <foto_m>fotos-projecte/tanglewood.jpg</foto_m>
     </mapa>
 
-    <mapa id="m2" nom= "Campament Maple Lodge" tamany="gran" fecha_introduccio="2021-07-15" obert="si">
+    <mapa id="m2" nom= "Campament Maple Lodge" tamany="gran" fecha_introduccio="27/10/2023" obert="si">
         <descripcio_m>Un gran campament amb multiples tendes de campanya y una gran casa prop del llac.Este campament proposarà un veritable desafiament a aquells caça fantasmes que s'atrevisquen a plantar cara a les històries que turmenten este paranormal parc natural .</descripcio_m>
         <fusible>Quart de manteniment</fusible>
         <posesio_maldita>Ninot vudú</posesio_maldita>
         <foto_m>fotos-projecte/maple_lodge.jpg</foto_m>
     </mapa>
 
-    <mapa id="m3" nom="Granja de Grafton" tamany="mitja" fecha_introduccio="2020-11-28" obert="no">
+    <mapa id="m3" nom="Granja de Grafton" tamany="mitja" fecha_introduccio="18/9/2020" obert="no">
         <descripcio_m>Una granja rustica on sovint es donen fenomens paranormals.Seran les almes dels anteriors granjers....</descripcio_m>
         <fusible>Soterrani</fusible>
         <posesio_maldita>Espill maleit</posesio_maldita>
         <foto_m>fotos_projecte/grafton.jpg</foto_m>
     </mapa>
 
-    <mapa id="m4" nom="Preso" tamany="enorme" fecha_introduccio="2021-01-11" obert="si">
+    <mapa id="m4" nom="Preso" tamany="enorme" fecha_introduccio="03/12/2020" obert="si">
         <descripcio_m>Una preso abandonada amb amplis espais oberts i cel·les per explorar. Diuen que aquells presos que van morir aci busquen venjança i no dubtaran en atacar a tots aquells que s'atrevisquen a entrar en el seu territori</descripcio_m>
         <fusible>Oficina de seguretat</fusible>
         <posesio_maldita>Ouija</posesio_maldita>
