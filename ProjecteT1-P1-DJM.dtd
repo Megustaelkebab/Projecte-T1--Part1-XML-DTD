@@ -7,7 +7,7 @@
                 nom CDATA #REQUIRED
                 fecha_introduccio CDATA #REQUIRED
                 velocitat (lenta | normal | alta) #REQUIRED
-                cordura_caçar (molt_prompte| prompte| normal |tard)
+                cordura_caçar (molt_prompte| prompte| normal |tard) #REQUIRED
                 >
 
         <!ELEMENT proba1 (#PCDATA)>
@@ -24,7 +24,7 @@
                 nom CDATA #REQUIRED
                 tamany (xicotet | mitja | gran | enorme) #REQUIRED
                 fecha_introduccio CDATA #REQUIRED
-                obert (si | no) "no"
+                obert (si | no) "no" #REQUIRED
                 >
 
         <!ELEMENT descripcio_m (#PCDATA)>
