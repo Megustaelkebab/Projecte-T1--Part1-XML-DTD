@@ -11,3 +11,5 @@ Repetim este procés amb "mapa" però canviant els seus elements a: "descripcio_
 Afegim els seus atributs ,també obligatoris amb #REQUIRED, que en este cas seran: "id", "nom", "tamany", "data_introduccio" i "obert". 
 En aquest cas només existixen 4 tipus de grandària diferents especificats en l'atribut, cas paregut al de la velocitat o la cordura a la que caça el fantasma. D'altra banda el mapa pot o no ser obert, però com en la majoria de cas este serà tancat el valor de "obert" per defecte serà "no"
 Finalitzem tant la part de "mapa" com el DTD declarant tots els elements anteriorment esmentats com #PCDATA pels mateixos motius que en "fantasma"
+
+![image](https://github.com/Megustaelkebab/Projecte-T1--Part1-XML-DTD/blob/main/fotos.MODEL/Phasmophobia_tittle.jpg)
