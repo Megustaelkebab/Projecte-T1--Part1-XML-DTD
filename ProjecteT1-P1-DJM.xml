@@ -34,6 +34,14 @@
         <descripcio_f>El Revenant es molt lent quan no esta perseguint, pero rapid quan segueix a la victima.</descripcio_f>
         <foto_f>fotos_projecte/revenant.jpg</foto_f>
     </fantasma>
+    
+    <fantasma id="f5" nom="Oni" fecha_introduccio="16/05/2021" velocitat="normal" cordura_caçar="molt_prompte">
+        <proba1>EMF</proba1>
+        <proba2>DOTs</proba2>
+        <proba3>Temperatura</proba3>
+        <descripcio_f>Als Onis els encanta espantar a les seues víctimes tant com siga possible abans d'atacar. Sovint se'ls veu en la seua forma física, custodiant el seu lloc de mort. Seran molt mes agressius quantes més persones s'acosten al seu territori</descripcio_f>
+        <foto_f>fotos-projecte/oni.jpg</foto_f>
+    </fantasma>
 
     <mapa id="m1" nom="Casa de Tanglewood" tamany="xicotet" fecha_introduccio="18/9/2020" obert="no">
         <descripcio_m>Una casa xicoteta i acollidora amb un toc de terror, ideal per a investigacions inicials.</descripcio_m>
@@ -61,5 +69,10 @@
         <posesio_maldita>Ouija</posesio_maldita>
         <foto_m>fotos-projecte/prisio.jpg</foto_m>
     </mapa>
+    
+    <mapa id="m5" nom="nº13 Willow Street" tamany="xicotet" fecha_introduccio="18/07/2022" obert="no">
+        <descripcio_m>Una nova casa acabada de construir i amb pocs amagatalls. Ideal per a caçar fantasmes experimentats! Els informes diuen que va ser construïda sobre una cosa sobrenatural, tal vegada un cementeri...</descripcio_m>
+        <fusible>Soterrani</fusible>
+        <foto_m>fotos-projecte/willow.jpg</foto_m>
+    </mapa>
 </PHASMOPHOBIA>
-
