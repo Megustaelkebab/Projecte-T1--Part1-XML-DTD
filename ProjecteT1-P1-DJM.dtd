@@ -3,6 +3,7 @@
         <!ELEMENT PHASMOPHOBIA (fantasma+,mapa+)>
         <!ELEMENT fantasma (proba1, proba2, proba3, descripcio_f,timid?,foto_f)>
         <!ATTLIST fantasma
+                id ID #REQUIRED
                 nom CDATA #REQUIRED
                 fecha_introduccio CDATA #REQUIRED
                 velocitat (lenta | normal | alta) #REQUIRED
@@ -19,6 +20,7 @@
 
         <!ELEMENT mapa (descripcio_m,fusible,posesio_maldita?,foto_m)>
         <!ATTLIST mapa
+                id ID #REQUIRED
                 nom CDATA #REQUIRED
                 tamany (xicotet | mitja | gran | enorme) #REQUIRED
                 fecha_introduccio CDATA #REQUIRED
