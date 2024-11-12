@@ -23,7 +23,7 @@
         <proba1>Orbes</proba1>
         <proba2>Escritura</proba2>
         <proba3>Temperatura</proba3>
-        <descripcio_f>La pesadilla prefereix la foscor i es mes agressiu quan les llums estan apagades.</descripcio_f>
+        <descripcio_f>La pesadilla prefereix la foscor i es mes agressiva quan les llums estan apagades.</descripcio_f>
         <foto_f>fotos_projecte/pesadilla.jpg</foto_f>
     </fantasma>
 
@@ -55,7 +55,7 @@
         <foto_m>fotos_projecte/grafton.jpg</foto_m>
     </mapa>
 
-    <mapa id="m4" nom="Prisio" tamany="enorme" fecha_introduccio="2021-01-11" obert="si">
+    <mapa id="m4" nom="Preso" tamany="enorme" fecha_introduccio="2021-01-11" obert="si">
         <descripcio_m>Una preso abandonada amb amplis espais oberts i cel·les per explorar. Diuen que aquells presos que van morir aci busquen venjança i no dubtaran en atacar a tots aquells que s'atrevisquen a entrar en el seu territori</descripcio_m>
         <fusible>Oficina de seguretat</fusible>
         <posesio_maldita>Ouija</posesio_maldita>
