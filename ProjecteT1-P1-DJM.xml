@@ -73,6 +73,7 @@
     <mapa id="m5" nom="nº13 Willow Street" tamany="xicotet" fecha_introduccio="18/07/2022" obert="no">
         <descripcio_m>Una nova casa acabada de construir i amb pocs amagatalls. Ideal per a caçar fantasmes experimentats! Els informes diuen que va ser construïda sobre una cosa sobrenatural, tal vegada un cementeri...</descripcio_m>
         <fusible>Soterrani</fusible>
+        <posesio_maldita>Má de mico</posesio_maldita>
         <foto_m>fotos-projecte/willow.jpg</foto_m>
     </mapa>
 </PHASMOPHOBIA>
