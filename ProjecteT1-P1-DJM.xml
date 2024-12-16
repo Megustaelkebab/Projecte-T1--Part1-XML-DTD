@@ -46,6 +46,7 @@
     <mapa id="m1" nom="Casa de Tanglewood" tamany="xicotet" fecha_introduccio="18/9/2020" obert="no">
         <descripcio_m>Una casa xicoteta i acollidora amb un toc de terror, ideal per a investigacions inicials.</descripcio_m>
         <fusible>Soterrani</fusible>
+         <posesio_maldita>Cercle d'invocació</posesio_maldita>
         <foto_m>fotos-projecte/tanglewood.jpg</foto_m>
     </mapa>
 
