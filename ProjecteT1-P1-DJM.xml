@@ -59,7 +59,7 @@
 
     <mapa id="m3" nom="Granja de Grafton" tamany="mitja" fecha_introduccio="18/9/2020" obert="no">
         <descripcio_m>Una granja rustica on sovint es donen fenomens paranormals.Seran les almes dels anteriors granjers....</descripcio_m>
-        <fusible>Soterrani</fusible>
+        <fusible>àtic</fusible>
         <posesio_maldita>Espill maleit</posesio_maldita>
         <foto_m>fotos_projecte/grafton.jpg</foto_m>
     </mapa>
